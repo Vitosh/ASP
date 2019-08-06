@@ -1,0 +1,9 @@
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\bin\Debug\netcoreapp2.1\PartyLibrary2.deps.json
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\bin\Debug\netcoreapp2.1\PartyLibrary2.dll
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\obj\Debug\netcoreapp2.1\PartyLibrary2.csprojAssemblyReference.cache
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\obj\Debug\netcoreapp2.1\PartyLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\obj\Debug\netcoreapp2.1\PartyLibrary2.AssemblyInfoInputs.cache
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\obj\Debug\netcoreapp2.1\PartyLibrary2.AssemblyInfo.cs
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\bin\Debug\netcoreapp2.1\PartyLibrary2.pdb
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\obj\Debug\netcoreapp2.1\PartyLibrary2.dll
+C:\Users\gropc\Source\Repos\ASP\PartyLibrary2\obj\Debug\netcoreapp2.1\PartyLibrary2.pdb

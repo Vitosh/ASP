@@ -1,0 +1,12 @@
+C:\Users\gropc\Source\Repos\ASP\PartyDB2\bin\Debug\PartyDB2.dacpac
+C:\Users\gropc\Source\Repos\ASP\PartyDB2\bin\Debug\PartyDB2.dll
+C:\Users\gropc\Source\Repos\ASP\PartyDB2\bin\Debug\PartyDB2.pdb
+C:\Users\gropc\Source\Repos\ASP\PartyDB2\obj\Debug\PartyDB2.dll
+C:\Users\gropc\Source\Repos\ASP\PartyDB2\obj\Debug\PartyDB2.pdb
+C:\Users\gropc\Source\Repos\ASP\PartyDB2\obj\Debug\PartyDB2.sqlprojAssemblyReference.cache
+C:\Users\gropc\Source\Repos\ASP\PartyInvitesAddingDB\PartyDB2\bin\Debug\PartyDB2.dacpac
+C:\Users\gropc\Source\Repos\ASP\PartyInvitesAddingDB\PartyDB2\bin\Debug\PartyDB2.dll
+C:\Users\gropc\Source\Repos\ASP\PartyInvitesAddingDB\PartyDB2\bin\Debug\PartyDB2.pdb
+C:\Users\gropc\Source\Repos\ASP\PartyInvitesAddingDB\PartyDB2\obj\Debug\PartyDB2.sqlprojAssemblyReference.cache
+C:\Users\gropc\Source\Repos\ASP\PartyInvitesAddingDB\PartyDB2\obj\Debug\PartyDB2.dll
+C:\Users\gropc\Source\Repos\ASP\PartyInvitesAddingDB\PartyDB2\obj\Debug\PartyDB2.pdb

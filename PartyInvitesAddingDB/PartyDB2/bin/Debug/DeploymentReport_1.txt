@@ -1,0 +1,15 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[PartyPeople]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[PartyPeople] (Table)
+
+** Supporting actions
