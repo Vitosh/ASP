@@ -3,4 +3,4 @@
 ## Video:
 [YouTube](https://www.youtube.com/watch?v=NbKeazpW1Ik)
 ## Dog:
-:Dog:
+:dog:
