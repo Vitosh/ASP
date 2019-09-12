@@ -144,7 +144,7 @@ namespace ContosoUniversity.Controllers
         {
             var allCourses = _context.Courses;
             var instructorCourses = new HashSet<int>(instructor.CourseAssignments.Select(c => c.CourseId));
-            var viewModel = new List<AssignedCourseData>();   
+            var viewModel = new List<AssignedCourseData>();
 
             foreach (var course in allCourses)
             {
